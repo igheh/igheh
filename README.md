@@ -1,5 +1,5 @@
 # 💫 About Me:
-Versatile full-stack engineer<br>Currently working as Independent Contractor<br>Owner of magnio.net
+Versatile full-stack engineer<br>Currently working as Independent Contractor<br>Owner of [magnio.net](https://magnio.net/)
 
 
 ## 🌐 Socials:
